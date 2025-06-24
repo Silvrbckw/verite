@@ -36,7 +36,7 @@
     "expo-barcode-scanner": "~11.3.0",
     "expo-random": "^12.1.1",
     "fastestsmallesttextencoderdecoder": "^1.0.22",
-    "jsonpath-plus": "^7.0.0",
+    "jsonpath-plus": "^10.3.0",
     "lodash": "^4.17.21",
     "react": "17.0.2",
     "react-dom": "17.0.2",
