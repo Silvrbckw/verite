@@ -45,7 +45,7 @@
     "ethers": "^5.4.4",
     "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.21",
-    "next": "^12.1.6",
+    "next": "^16.2.3",
     "next-auth": "^4.10.3",
     "nextjs-progressbar": "^0.0.14",
     "qrcode.react": "^3.0.2",
